@@ -99,9 +99,9 @@ Meu objetivo é ajudar empresas e pessoas a transformar ideias em resultados rea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=innovationstudios&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovationstudios&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 
 </div>
 
