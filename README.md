@@ -110,7 +110,7 @@ Meu objetivo é ajudar empresas e pessoas a transformar ideias em resultados rea
 ## 🌈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USER&theme=tokyo-night&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=innovationstudios&theme=tokyo-night&hide_border=true&radius=12" />
 </p>
 
 ---
