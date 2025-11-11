@@ -18,14 +18,14 @@
 ## ✨ Sobre Mim
 
 Sou **Gabriel**, desenvolvedor da **InnovationStudios**.  
-Trabalho criando soluções robustas para web, desktop e automação, sempre prezando por:
+Crio soluções robustas para web, desktop e automação, sempre prezando por:
 
 ✅ Qualidade  
 ✅ Escalabilidade  
 ✅ Manutenibilidade  
 ✅ Performance  
 
-Meu objetivo é ajudar empresas e pessoas a transformar ideias em resultados reais.
+Meu objetivo é transformar ideias em resultados reais.
 
 ---
 
@@ -49,35 +49,33 @@ Meu objetivo é ajudar empresas e pessoas a transformar ideias em resultados rea
 
 - Docker (Intermediário)
 - Docker Compose
+- GitHub Actions (CI/CD)
 - NGINX
 - Linux Servers
 - PM2
-- GitHub Actions (CI/CD)
-- Cloud Providers → AWS · Azure · Contabo
+- Cloud → AWS · Azure · Contabo
 - Versionamento → Git / GitHub
-- Monitoramento & Logs
+- Monitoramento & Logs (Elastic Stack)
 - WebSockets
 
 ---
 
 ## 🧪 Padrões & Arquitetura
 
-- MVC
-- API REST
-- SOLID
-- Microsserviços
-- Monolitos escaláveis
+- SOLID  
+- MVC  
+- Microsserviços  
+- API REST  
+- Monolitos escaláveis  
 
 ---
 
 ## 🛠️ Ferramentas
 
 - VSCode / JetBrains
-- Postman
-- Insomnia
-- Figma (básico)
+- Postman / Insomnia
 - Swagger
-- Elastic Stack
+- Figma (básico)
 
 ---
 
@@ -118,11 +116,13 @@ Meu objetivo é ajudar empresas e pessoas a transformar ideias em resultados rea
 ## ✨ Animações Extras
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USER&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=innovationstudios&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=innovationstudios&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
