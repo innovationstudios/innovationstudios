@@ -2,7 +2,7 @@
 
 <br/>
 <h1 align="center">
-  🚀 InnovationStudios · Gabriel
+  🚀 InnovationStudios · Victor Duarte
 </h1>
 <h3 align="center">
   Desenvolvedor Web · Desktop · Automação
@@ -17,7 +17,7 @@
 
 ## ✨ Sobre Mim
 
-Sou **Gabriel**, desenvolvedor da **InnovationStudios**.  
+Sou **Victor Duarte**, desenvolvedor da **InnovationStudios**.  
 Crio soluções robustas para web, desktop e automação, sempre prezando por:
 
 ✅ Qualidade  
