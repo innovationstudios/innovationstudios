@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,2,24,30&text=Gabriel%20Duarte&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20ConnectHub&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,2,24,30&text=Victor%20Duarte&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20ConnectHub&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <img width="160" src="./assets/connecthub-avatar.png" alt="ConnectHub" />
 
