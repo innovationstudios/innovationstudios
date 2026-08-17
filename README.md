@@ -1,11 +1,13 @@
 <!--
-  GitHub Profile — Victor Duarte
-  InnovationStudios
+  GitHub Profile — Gabriel Duarte
+  ConnectHub
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,2,24,30&text=Victor%20Duarte&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20InnovationStudios&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,2,24,30&text=Gabriel%20Duarte&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20ConnectHub&descAlignY=58&descSize=17&animation=fadeIn"/>
+
+<img width="160" src="./assets/connecthub-avatar.png" alt="ConnectHub" />
 
 <a href="https://github.com/innovationstudios">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=850&lines=Building+SaaS+products+%26+developer+tools;Go+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+Vue;Distributed+Systems+%E2%80%A2+APIs+%E2%80%A2+Automation;Turning+complex+infrastructure+into+simple+products" alt="Typing SVG" />
@@ -15,23 +17,26 @@
 
 <img src="https://komarev.com/ghpvc/?username=innovationstudios&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
 
+<img src="https://img.shields.io/badge/Building-SaaS%20%26%20Developer%20Tools-F97316?style=for-the-badge" alt="Building SaaS and developer tools" />
+<img src="https://img.shields.io/badge/Focus-Distributed%20Systems-2563EB?style=for-the-badge" alt="Distributed systems" />
+
 </div>
 
-> whoami
+## About
 
-Victor Duarte
-Software Engineer & Product Builder @ InnovationStudios
+**Gabriel Duarte** — Software Engineer and Product Builder at **ConnectHub**.
 
-Building software across SaaS, developer tools,
-automation, distributed systems and infrastructure.
+I design and ship products across SaaS, developer tools, automation, distributed systems and cloud infrastructure.
 
-I enjoy designing products from the architecture to the final interface — APIs, workers, queues, databases, real-time communication, desktop applications and cloud infrastructure.
+My work spans the complete product lifecycle: architecture, APIs, workers, queues, databases, real-time communication, native applications, infrastructure and production operations.
 
-My focus is not just making software work.
+I turn complex infrastructure into reliable products with simple interfaces. The goal is not merely software that works, but systems that remain scalable, observable, maintainable and useful in real-world operation.
 
-I care about making it scalable, maintainable, observable and useful in the real world.
+```text
+Product thinking + Systems engineering + Operational excellence
+```
 
-## Currently Building
+## Products & Platforms
 
 <table>
 <tr>
@@ -219,18 +224,14 @@ desktop:
   - System inspection
   - Process & network tooling
 
-## Areas I Like Building
+## Core Expertise
 
-<div align="center">
-
-
-
-
-
-
-
-
-</div>
+| Product Engineering | Backend & Architecture | Infrastructure | Automation & Integrations |
+|---|---|---|---|
+| SaaS platforms | REST APIs and WebSockets | Docker and Linux | Event-driven workflows |
+| Web, mobile and desktop | Distributed workers | CI/CD and observability | Marketplace integrations |
+| Developer experience | Queues, cache and databases | Secure tunnel systems | WhatsApp and AI integrations |
+| Product architecture | Modular and scalable systems | Cloud operations | Reliable background processing |
 
 ## How I Like To Build
 
@@ -313,6 +314,10 @@ Good software isn't just code that works.
 
 It should be understandable, observable, maintainable and capable of evolving without becoming a problem for the people maintaining it.
 
+## ConnectHub
+
+ConnectHub is where product engineering meets connected infrastructure. We build platforms that unify communication, automation, developer workflows and real-time operations behind clear, dependable interfaces.
+
 ## Let's Build Something
 
 I'm always interested in discussing:
@@ -322,7 +327,7 @@ SaaS · Developer Tools · Infrastructure · APIs · Automation · Distributed S
 <div align="center">
 
 <a href="https://github.com/innovationstudios">
-<img src="https://img.shields.io/badge/GitHub-InnovationStudios-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Gabriel%20Duarte-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
