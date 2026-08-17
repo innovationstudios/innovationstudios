@@ -31,13 +31,13 @@ My focus is not just making software work.
 
 I care about making it scalable, maintainable, observable and useful in the real world.
 
-🚀 Currently Building
+## Currently Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-⚡ TunnelHub
+### TunnelHub
 
 Native Visual Control Center & Edge Infrastructure for Developers
 
@@ -65,7 +65,7 @@ Offline-first workflows
 
 <td width="50%" valign="top">
 
-🟠 AtendaHub
+### AtendaHub
 
 Omnichannel Communication & Automation Platform
 
@@ -95,7 +95,7 @@ Real-time communication
 <tr>
 <td width="50%" valign="top">
 
-📡 Marketplace Radar
+### Marketplace Radar
 
 Real-time Marketplace Monitoring Infrastructure
 
@@ -123,7 +123,7 @@ Encrypted marketplace sessions
 
 <td width="50%" valign="top">
 
-🛒 AtendaFiliados
+### AtendaFiliados
 
 Marketplace Affiliate Automation
 
@@ -149,7 +149,7 @@ WhatsApp distribution
 </tr>
 </table>
 
-⚙️ Engineering Stack
+## Engineering Stack
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Infrastructure
 
 </div>
 
-🧠 What I Work With
+## What I Work With
 
 backend:
   - REST APIs
@@ -219,7 +219,7 @@ desktop:
   - System inspection
   - Process & network tooling
 
-🔥 Areas I Like Building
+## Areas I Like Building
 
 <div align="center">
 
@@ -232,7 +232,7 @@ desktop:
 
 </div>
 
-🏗️ How I Like To Build
+## How I Like To Build
 
 Idea
   │
@@ -259,13 +259,13 @@ Production
 
 I like working across the entire lifecycle of a product — from the first architecture decisions to deployment and production operation.
 
-📊 GitHub
+## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" height="30" align="center" alt="GitHub" /> GitHub
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=innovationstudios&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF&ring_color=F97316" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovationstudios&theme=github_dark" alt="GitHub statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovationstudios&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&langs_count=8" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovationstudios&theme=github_dark" alt="Most used languages" />
 
 </div>
 
@@ -277,7 +277,7 @@ I like working across the entire lifecycle of a product — from the first archi
 
 </div>
 
-📈 Contribution Activity
+## <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="30" height="30" align="center" alt="GitHub Actions" /> Contribution Activity
 
 <div align="center">
 
@@ -285,7 +285,7 @@ I like working across the entire lifecycle of a product — from the first archi
 
 </div>
 
-🐍 Contributions
+## <img src="https://skillicons.dev/icons?i=git&theme=dark" width="30" height="30" align="center" alt="Git" /> Contributions
 
 <div align="center">
 
@@ -297,15 +297,15 @@ I like working across the entire lifecycle of a product — from the first archi
 
 </div>
 
-🏆 GitHub Achievements
+## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" height="30" align="center" alt="GitHub" /> GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=innovationstudios&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-trophies.vercel.app/?username=innovationstudios&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub achievements" />
 
 </div>
 
-💡 Engineering Philosophy
+## Engineering Philosophy
 
 Build simple interfaces over complex systems.
 
@@ -313,7 +313,7 @@ Good software isn't just code that works.
 
 It should be understandable, observable, maintainable and capable of evolving without becoming a problem for the people maintaining it.
 
-🤝 Let's Build Something
+## Let's Build Something
 
 I'm always interested in discussing:
 
